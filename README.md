@@ -1,0 +1,1 @@
+# Personal notes for Generative Adversarial Learning
